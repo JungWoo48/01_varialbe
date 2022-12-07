@@ -15,7 +15,7 @@ public class CastingPractice1 {
 		System.out.println((int)dNum);
 		
 		System.out.println(iNum2 * dNum);
-		System.out.println((float)iNum1);
+		System.out.println((double)iNum1);
 		
 		System.out.println((double)iNum1 / (double)iNum2);
 		System.out.println(dNum);
